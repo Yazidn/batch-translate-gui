@@ -3,7 +3,7 @@ The GUI version of batch_translate. A very simple tool to translate an input int
 It was initially called "codename", as it's a good tool to choose quick codenames for your projects.
 Used Svelte & Tailwind CSS.
 
-# CLI version
+## CLI version
 -[batch-translate-cli](https://github.com/Yazidn/batch-translate-cli)
 
 # Screenshot
