@@ -6,5 +6,10 @@ Used Svelte & Tailwind CSS.
 ## CLI version
 - [batch-translate-cli](https://github.com/Yazidn/batch-translate-cli)
 
+
+## Notes
+- Built in [Svelte](https://svelte.dev)
+- Used [TailwindCSS](https://tailwindcss.com)
+
 # Screenshot
 ![desktop](https://i.imgur.com/bAWK3s4.png)
