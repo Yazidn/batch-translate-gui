@@ -4,7 +4,7 @@ It was initially called "codename", as it's a good tool to choose quick codename
 Used Svelte & Tailwind CSS.
 
 ## CLI version
--[batch-translate-cli](https://github.com/Yazidn/batch-translate-cli)
+- [batch-translate-cli](https://github.com/Yazidn/batch-translate-cli)
 
 # Screenshot
 ![desktop](https://i.imgur.com/bAWK3s4.png)
