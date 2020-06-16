@@ -3,5 +3,5 @@ The GUI version of batch_translate. A very simple tool to translate an input int
 It was initially called "Codename", as it's a good tool to choose quick codenames for your projects.
 Used Svelte & Tailwind CSS.
 
-# Sneak peak
+# Screenshot
 ![desktop](https://i.imgur.com/bAWK3s4.png)
