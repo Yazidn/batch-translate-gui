@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
@@ -91,3 +92,7 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+=======
+# batch_translate_gui
+A very simple tool to translate an input into many languages all at once.
+>>>>>>> 8987de1a39b4ac7ff194d389d2b3cd45f9d591ba
